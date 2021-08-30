@@ -6,7 +6,7 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://sspool.herokuapp.com/clash/proxies
 
 # 网页模糊抓取
 - type: webfuzz
@@ -27,3 +27,4 @@
 # 某个网站抓取
 - type: web-freessrxyz
   options:
+    url: https://233660.xyz/clash/proxies
